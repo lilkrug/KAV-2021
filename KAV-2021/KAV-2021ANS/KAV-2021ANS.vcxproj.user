@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerCommandArguments>-in:E:\Education\Kursovoiproject\KAV-2021\KAV-2021ANS\in.txt -out:E:\Education\Kursovoiproject\KAV-2021\KAV-2021ASM\KAV-2021ASM.asm m l i</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommandArguments>-in:E:\Education\Kursovoiproject\KAV-2021\KAV-2021ANS\in.txt -out:E:\Education\Kursovoiproject\KAV-2021\KAV-2021ASM\KAV-2021ASM.asm m l i</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>

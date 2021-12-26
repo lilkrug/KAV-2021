@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "8e9e65cb-ab53-42b7-b210-f11026a26a25": {
+      "ProjectGuid": "8e9e65cb-ab53-42b7-b210-f11026a26a25",
+      "DisplayName": "KAV-2021ANS",
+      "ColorIndex": 0
+    },
+    "49ce9394-c6a3-4943-bebe-59f9619d7c16": {
+      "ProjectGuid": "49ce9394-c6a3-4943-bebe-59f9619d7c16",
+      "DisplayName": "KAV-2021ASM",
+      "ColorIndex": 1
+    },
+    "bcd551b2-0552-473d-90eb-19ef1873e7f1": {
+      "ProjectGuid": "bcd551b2-0552-473d-90eb-19ef1873e7f1",
+      "DisplayName": "KAV-2021LIB",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

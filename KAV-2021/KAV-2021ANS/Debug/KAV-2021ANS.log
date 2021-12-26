@@ -1,0 +1,28 @@
+﻿  CodeGeneration.cpp
+E:\Education\Kursovoiproject\KAV-2021\KAV-2021ANS\CodeGeneration.cpp(23,16): warning C4101: func: неиспользованная локальная переменная
+E:\Education\Kursovoiproject\KAV-2021\KAV-2021ANS\CodeGeneration.cpp(503,14): warning C4129: e: неизвестная escape-последовательность
+  Error.cpp
+  FST.cpp
+E:\Education\Kursovoiproject\KAV-2021\KAV-2021ANS\FST.cpp(118,36): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+E:\Education\Kursovoiproject\KAV-2021\KAV-2021ANS\FST.cpp(520,27): warning C4305: аргумент: усечение из "int" в "char"
+E:\Education\Kursovoiproject\KAV-2021\KAV-2021ANS\FST.cpp(520,20): warning C4309: аргумент: усечение константного значения
+E:\Education\Kursovoiproject\KAV-2021\KAV-2021ANS\FST.cpp(522,20): warning C4305: аргумент: усечение из "int" в "char"
+E:\Education\Kursovoiproject\KAV-2021\KAV-2021ANS\FST.cpp(522,13): warning C4309: аргумент: усечение константного значения
+E:\Education\Kursovoiproject\KAV-2021\KAV-2021ANS\FST.cpp(1362,26): warning C4018: <: несоответствие типов со знаком и без знака
+  GRB.cpp
+  KAV-2021.cpp
+  In.cpp
+E:\Education\Kursovoiproject\KAV-2021\KAV-2021ANS\In.cpp(22,13): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+  IT.cpp
+E:\Education\Kursovoiproject\KAV-2021\KAV-2021ANS\IT.cpp(53,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Education\Kursovoiproject\KAV-2021\KAV-2021ANS\IT.cpp(160,22): warning C4018: <: несоответствие типов со знаком и без знака
+  Log.cpp
+  LT.cpp
+  MFST.cpp
+  NotaciaPolska.cpp
+  Out.cpp
+  Parm.cpp
+E:\Education\Kursovoiproject\KAV-2021\KAV-2021ANS\Parm.cpp(20,11): warning C4101: wst: неиспользованная локальная переменная
+  Semantic.cpp
+  Создание кода...
+  KAV-2021ANS.vcxproj -> E:\Education\Kursovoiproject\KAV-2021\Debug\KAV-2021ANS.exe

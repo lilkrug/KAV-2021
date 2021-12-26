@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{2380f07d-adc1-447d-8a88-98d7795faa49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{708f4c82-ff4d-4fc5-96a2-264448dc9ac8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4a021877-d940-407a-b7f3-f09ec7e35c61}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="KAV-2021ASM.asm">
+      <Filter>Файлы ресурсов</Filter>
+    </MASM>
+  </ItemGroup>
+</Project>
